@@ -1,8 +1,8 @@
 # CONFIG
 # ---------
-token = "TOKEN_HERE" # To find this, press CTRL + SHIFT + i in the Discord client revealing the inspect element prompt. Click the arrows, head over to Application, local storage and there you can find your user token :)
+token = "NDc5MDMyMjA0MzI5MjIyMTU0.DlTV3g.pVtv4XTbce5tgWaR6VpRWpMmn58" # To find this, press CTRL + SHIFT + i in the Discord client revealing the inspect element prompt. Click the arrows, head over to Application, local storage and there you can find your user token :)
 prefix = "~" # This will be used at the start of commands.
-rename_to = "Innocent" # The string everyone possible will be renamed to using the 'rall' command.
+rename_to = "Altrl's Weakling" # The string everyone possible will be renamed to using the 'rall' command.
 # ----------
 
 import discord
